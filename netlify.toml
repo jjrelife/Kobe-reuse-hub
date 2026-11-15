@@ -1,0 +1,4 @@
+# Netlify settings: the website is the "site" folder; no build step is needed.
+[build]
+  publish = "site"
+  command = ""
